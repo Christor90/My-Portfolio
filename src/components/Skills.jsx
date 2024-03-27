@@ -8,7 +8,7 @@ import react from '../assets/react.png';
 const Skills = () => {
   return (
     <div>
-      <h2 className=" mt-20 mb-8 text-3xl text-white text-center">
+      <h2 className="mt-20 mb-8 text-3xl text-white text-center">
         My <span>Working Tools</span>
       </h2>
 
