@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="  text-gray-500 flex justify-between items-center max-w-[1240px] mx-auto h-24 px-4 text-l">
+    <div className=" sticky top-0 z-50 bg-[#20242d]  text-gray-500 flex justify-between items-center max-w-[full] mx-auto h-24 px-4 text-l">
       <h1 className="text-3xl font-bold primary-color ml-4">Mr. CHRis</h1>
       <ul className="hidden md:flex">
         <li className="p-5">

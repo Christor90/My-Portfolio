@@ -14,7 +14,7 @@ const Contact = () => {
               Contact <span>Me</span>
             </h1>
             <p className="text-normal text-lg font-medium text-gray-400 mt-2">
-              Let's Connect on LinkIn <br /> or send me an Email
+              Let's Connect on LinkIn or send me an Email
             </p>
 
             <div className="flex items-center mt-2 text-gray-400">

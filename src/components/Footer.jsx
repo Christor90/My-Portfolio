@@ -12,7 +12,7 @@ const Footer = () => {
       </div>
 
       <p className="text-gray-500">
-        @Copy {new Date().getFullYear()} Right Portfolio Page
+        @Copy Right {new Date().getFullYear()} Portfolio Page
       </p>
     </div>
   );
